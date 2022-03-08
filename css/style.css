@@ -220,12 +220,21 @@ main {
     margin-right: 40px;
 }
 
+/*準備中*/
 .btnBox_n{
     background-color: gray;
 }
 
 .btnBox_a{
-    background-color: #FFF450;
+    background-color: #FFB2A6;
+}
+
+.btnBox_b{
+    background-color: #fff34e;
+}
+
+.btnBox_c{
+    background-color: #9ADCFF;
 }
 
 
@@ -308,6 +317,11 @@ main {
 }
 .img img {
     max-width: 100%;
+    max-height: 300px;
+}
+
+.kyocho {
+    color: red;
 }
 
 #pageBody .title p{
