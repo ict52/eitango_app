@@ -12,7 +12,8 @@ ul {
     padding-left: 0;
 }
 
-.wf-mplus1p { font-family: "Mplus 1p"; }
+/* .wf-mplus1p { font-family: "Mplus 1p"; } */
+.wf-mplus1p { font-family: "游ゴシック Medium",YuGothic,YuGothicM,"Hiragino Kaku Gothic ProN","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,sans-serif; }
 
 /* Header（・・・1分でわかるまるまる診断） */
 #commonHeader {
@@ -245,7 +246,8 @@ main {
 
 
 .q{
-    font-family: "Mplus 1p";
+    font-family: "游ゴシック Medium",YuGothic,YuGothicM,"Hiragino Kaku Gothic ProN","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,sans-serif;
+/*     font-family: "Mplus 1p"; */
     font-size:300%;
     height: 50px;
     color:#F55257;
